@@ -73,7 +73,7 @@
   min-height: 757px;
   background-image: url(../images/cover.jpg);
   background-position: center;
-  background-size: cover;  
+  background-size: cover;
   padding: 162px 20px 51px 50px;
 }
 
@@ -98,7 +98,7 @@
   color: white;
 }
 
-.aligned-text {  
+.aligned-text {
   text-align: left;
 }
 
@@ -117,7 +117,7 @@
 
 .cover__description {
   display: flex;
-  position: relative;  
+  position: relative;
   margin-top: 120px;
   justify-content: space-between;
   z-index: 1;
